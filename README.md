@@ -1,6 +1,4 @@
 # Library-Management-System
- 
-# Library-Management-System
 
 This project is a library management system that allows users to efficiently manage books, borrowers, and library transactions. It provides features such as book cataloging, borrower registration, book borrowing and returning, and generating reports. The system aims to streamline the library operations and enhance the overall user experience.
 
